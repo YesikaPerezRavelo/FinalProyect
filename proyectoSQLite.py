@@ -1,7 +1,5 @@
 import sqlite3
 
-#index of products because it will be ease to delete products at the menu
-
 # Class definitions
 class Producto:
     def __init__(self, id, nombre, precio, stock):
