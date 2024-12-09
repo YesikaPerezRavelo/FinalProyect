@@ -177,19 +177,3 @@ Los productos son tipos de entrenamiento, como "Full Body", "Upper Body", etc., 
 [LinkedIn](https://www.linkedin.com/in/yesikaperezravelo/)
 
 ![imagenPerfil](https://firebasestorage.googleapis.com/v0/b/productyesfitness.appspot.com/o/python1.png?alt=media&token=c58f28bc-7f30-4139-abfc-6e16645b5a93)
-
-
-
-| Name   | Last Name    | Email              |
-| ------ | ------------ | ------------------ |
-| Yesika | Perez Ravelo | yesikapr@gmail.com |
-
-[LinkedIn](https://www.linkedin.com/in/yesikaperezravelo/)
-
-![imagenPerfil](https://firebasestorage.googleapis.com/v0/b/productyesfitness.appspot.com/o/python1.png?alt=media&token=c58f28bc-7f30-4139-abfc-6e16645b5a93)
-
-| Yesika | Perez Ravelo | yesikapr@gmail.com |
-
-[LinkedIn](https://www.linkedin.com/in/yesikaperezravelo/)
-
-![imagenPerfil](https://firebasestorage.googleapis.com/v0/b/productyesfitness.appspot.com/o/python1.png?alt=media&token=c58f28bc-7f30-4139-abfc-6e16645b5a93)
